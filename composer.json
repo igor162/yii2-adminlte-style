@@ -8,5 +8,10 @@
       "name": "Igor Fandyuhin",
       "email": "igor162@ya.ru"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "igor162\\AdminlteStyle\\": ""
+    }
+  }
 }
